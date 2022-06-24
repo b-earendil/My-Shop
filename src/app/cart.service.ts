@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Product } from './products';
 import { HttpClient } from '@angular/common/http';
-import { stringify } from 'querystring';
+// import { stringify } from 'querystring';
 
 @Injectable({
   providedIn: 'root',
